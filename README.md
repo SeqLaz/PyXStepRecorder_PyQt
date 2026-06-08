@@ -34,7 +34,7 @@ The core logic package sits inside the `PyXStepRecorder` directory, while the de
 Because this project relies on a submodule, you must clone the repository recursively to fetch both the app code and the core engine:
 
 ```bash
-git clone --recursive [https://github.com/SeqLaz/PyXStepRecorder_PyQt.git](https://github.com/SeqLaz/PyXStepRecorder_PyQt.git)
+git clone --recursive https://github.com/SeqLaz/PyXStepRecorder_PyQt.git
 cd PyXStepRecorder_PyQt
 
 ```
