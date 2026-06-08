@@ -1,0 +1,3 @@
+[submodule "PyXStepRecorder"]
+	path = PyXStepRecorder
+	url = https://github.com/SeqLaz/PyXStepRecorder.git
